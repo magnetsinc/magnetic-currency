@@ -7,9 +7,6 @@ fields:
   tier: 2
   lifecycle: Active
 links:
-  - name: null
-    type: REPOSITORY
-    url: 'https://github.com/magnetsinc/magnetic-currency'
   - name: '#magnetic'
     type: CHAT_CHANNEL
     url: 'https://magnetsinc.slack.com/archives/C049E2AUHRC'
